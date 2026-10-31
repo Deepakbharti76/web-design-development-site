@@ -119,7 +119,7 @@ export const projects = [
   {
     id: "trendsfit",
     name: "TrendsFit",
-    image: "/images/trendsfit.png",
+    image: "/images/trendsFit IMG.png",
     category: "E-Commerce",
     label: "Demo Project",
     description:
